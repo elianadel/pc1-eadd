@@ -16,7 +16,7 @@ public class Pc1Eadd2 {
     public static void main(String[] args) {
         System.out.println("Hola mundo en java");
         System.out.println("Quinto");
-
+        System.out.println("Computacion");
     }
     
 }
