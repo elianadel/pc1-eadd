@@ -14,7 +14,7 @@ public class Pc1Eadd2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo en java");
+        System.out.println("Hola mundo en java Eliana de Leon");
         System.out.println("Quinto");
         System.out.println("Computacion");
         System.out.println("A");
